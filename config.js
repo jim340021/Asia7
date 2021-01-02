@@ -11,17 +11,17 @@ var config = {
     footer: 'Source: source citations, etc.',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: 'pyu1',
             alignment: 'left',
             hidden: false,
-            title: 'Display Title',
+            title: 'The Pyu States',
             image: './path/to/image/source.png',
-            description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            description: 'Early states of the Irawaddy valley',
             location: {
-                center: [-122.418398, 37.759483],
-                zoom: 8.5,
+                center: [95.17272, 23.47254],
+                zoom: 7,
                 pitch: 60,
-                bearing: 0
+                bearing: 172.80
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -41,17 +41,17 @@ var config = {
             ]
         },
         {
-            id: 'other-identifier',
+            id: '2sriv',
             alignment: 'right',
             hidden: false,
-            title: 'Second Title',
+            title: 'Srivijaya',
             image: './path/to/image/source.png',
-            description: 'Copy these sections to add to your story.',
+            description: 'The pivot point',
             location: {
-                center: [-77.020636, 38.886900],
-                zoom: 8.5,
+                center: [107.26560, -3.07261],
+                zoom: 6,
                 pitch: 60,
-                bearing: -43.2
+                bearing: -14.40
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
